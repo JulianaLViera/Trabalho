@@ -8,6 +8,15 @@ Algoritmo: É uma sequência de ações que entrega soluções para determinados
 relevância dos conteúdos para cada usuário e indicar um tema que ele calcula ser o que a pessoa mais gosta de consumir. 
 Servidor: Um servidor é um grande computador capaz de armazenar maior quantidade de dados e de conectar outros computadores através da rede. Ele precisa de grande utilização de memória e maior necessidade
 de manutenção. Porém uma empresa que possui trabalhadores que utilizam computadores, pode utilizar esse servidor para conectar todos esses computadores e organizar melhor o sistema em cada um deles.
+Processo de negócio: é um sistema de organização em uma empresa que pode ajudar a coordenar e entregar um serviço de melhor qualidade para os clientes, podendo identificar os pontos fortes e 
+fracos de uma empresa para que possa haver mudanças e melhorias podendo se adaptar mais facilmente com o mercado externo.
+Sistema de Arquivos: É um sistema que guarda informações e que se não estiver habilitado no computador ou no celular, os dados armazenados não poderão ser localizados e muito menos lidos. 
+Cada sistema operacional vai precisar de um sistema de arquivos diferente, pois depende muito das limitações de cada arquivo.
+Nuvem: É uma rede de servidores globais que são conectados para que qualquer pessoa do mundo possa acessar os dados gerenciados e armazenados nela, precisando somente de uma fonte de internet.
+Inteligência artificial: É a capacidade que a máquina tem de adquirir um aprendizado, sendo inserido uma grande quantidade de dados e instruções, em que o programa irá procurar padrões para atingir
+os objetivos melhorando seu desempenho ao longo do tempo. Com esse aprendizado, são capazes de facilitar e realizar tarefas que antes eram realizadas por humanos.
+Zero-Ratings: É uma prática realizada por algumas empresas, que consiste em permitir o acesso ao usuário de forma gratuita aos seus serviços. Alguns especialistas não aprovam essa prática
+por dizer que dando gratuidade somente a algumas redes, essas empresas estariam limitando o acesso à internet a somente uma parte da vasta quantidade de serviços existentes.
 Referências: 
 O que são bancos de dados? Azure, 2024. Disponível em: https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-are-databases/. Acesso em: 20 fev. 2024.
 O que é um banco de dados? Oracle, 2024. Disponível em: https://www.oracle.com/br/database/what-is-database/. Acesso em: 20 fev. 2024.
@@ -18,3 +27,11 @@ Disponível em: https://idec.org.br/consultas/dicas-e-direitos/neutralidade-da-r
 JURIMETRIA: O que é, pilares e principais aplicações em departamentos jurídicos. Aurum, 22 dez. 2022. Disponível em: https://www.aurum.com.br/blog/jurimetria/. Acesso em: 22 fev. 2024.
 LISBOA, Alveni. O que é um algoritmo? Canaltech, 08 out. 2022. Disponível em: https://canaltech.com.br/inteligencia-artificial/o-que-e-um-algoritmo-226839/. Acesso em: 22 fev. 2024.
 KRIGER, Daniel. O que é um servidor, como ele funciona e principais vantagens? Kenzie, 02 fev. 2022. Disponível em: https://kenzie.com.br/blog/servidor/. Acesso em: 22 fev. 2024.
+CRUZ, Juliana. Processo de negócio. InfoEscola, 2006 – 2024. Disponível em: https://www.infoescola.com/administracao_/processo-de-negocio/. Acesso em: 23 fev. 2024.
+ENTENDA o que é sistema de arquivos e sua utilidade no PC e no celular. Techtudo, 26 fev. 2016. 
+Disponível em: https://www.techtudo.com.br/noticias/2016/02/entenda-o-que-e-sistema-de-arquivos-e-sua-utilidade-no-pc-e-no-celular.ghtml. Acesso em: 24 fev. 2024.
+O que é a nuvem? Azure, 2024. Disponível em: https://azure.microsoft.com/pt-br/resources/cloud-computing-dictionary/what-is-the-cloud/. Acesso em: 24 fev. 2024
+O que é a inteligência artificial? Um guia simples para entender a tecnologia. BBC, 18 jul. 2023. Disponível em: https://www.bbc.com/portuguese/resources/idt-74697280-e684-43c5-a782-29e9d11fecf3. 
+Acesso em: 24 fev. 2024.
+O que é Zero Rating? Entenda polemica que envolve Facebook e operadoras. Techtudo, 25 maio 2015. 
+Disponível em: https://www.techtudo.com.br/noticias/2015/05/o-que-e-zero-rating-entenda-polemica-que-envolve-facebook-e-operadoras.ghtml. Acesso em: 24 fev. 2024.
