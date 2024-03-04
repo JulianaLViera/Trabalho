@@ -4,3 +4,25 @@ atrativa para a pessoa. Por isso, quando uma pessoa faz uma pesquisa em alguma r
 Porém, isso pode acabar limitando muito o acesso a novas informações, pois ele acaba mostrando para o usuário somente temas únicos.
 Referências: 
 LISBOA, Alveni. O que é um algoritmo? Canaltech, 08 out. 2022. Disponível em: https://canaltech.com.br/inteligencia-artificial/o-que-e-um-algoritmo-226839/. Acesso em: 22 fev. 2024.
+
+A Lei Geral de Proteção de Dados (LGPD) foi criada para que se faça cumprir a segurança dos dados pessoais que ficam expostos online. Esta lei exigiu que muitas empresas tivessem que se adaptar
+a estas novas regras de privacidade de dados. Com os Data Centers não foi diferente.  Para que um provedor de Data Center se proteja contra danos físicos, que podem influenciar na proteção dos dados
+de seus clientes, o ideal é investir em redundância, mesmo que os dados sejam guardados na nuvem. Já contra a proteção de danos virtuais, é necessário dispor de tecnologias de segurança, que tornam
+a intercepção de informação mais difícil. Vale destacar que o Data Center nada mais é do que um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados.
+Essa estrutura reúne servidores, banco de dados informatizados e componentes auxiliares. Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam
+ser acessados a qualquer momento. A estrutura do controlador do Data Center é o local onde rodam o sistema e a rede de dados é instalada e mantida. É este lugar que deve operar com base nos preceitos
+da LGPD. É importante frisar que apesar de não atuar diretamente no processamento de dados dos usuários e de não exercer a responsabilidade sobre tais informações, cabe aos Data Centers, garantir a
+proteção física dos ambientes para que a gestão das informações seja segura.
+GRANDCHAMP, Leonardo. Veja quais são os impactos da LGPD para os Data Centers. LGPD Brasil, 23 set. 2021. Disponível em: https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/.
+Acesso em: 02 mar. 2024.
+
+Um formato aberto, em informática, indica uma especificação técnica de domínio público usada para a descrição e armazenamento de dados digitais, livre de restrições legais para seu uso. O principal objetivo
+dos formatos abertos é garantir o acesso aos dados a longo prazo sem inseguranças jurídicas ou restrições devidas às especificações técnicas. Outro objetivo do formato aberto é incentivar a concorrência, ao
+invés de permitir que um único fabricante detenha o controle sobre um formato proprietário. Os formatos proprietários são, na verdade, controlados e definidos por interesses privados. Com o formato 
+proprietário, o usuário corre o risco de perder todas as informações contidas no arquivo caso o software pare de funcionar ou fosse descontinuado, já que não teria outro sistema capaz de processá-las. Todas as
+informações coletadas nos arquivos públicos (órgãos, instituições, administração, etc.) se tornariam ilegíveis e inutilizáveis em muito pouco tempo e isso causaria implicações caso esse formato tenha  armazenados
+dados públicos que não podem ser perdidos. São exemplos de formatos proprietários: .docx e .xlsx (Microsoft Office) e .psd (Adobe Photoshop). E de formatos abertos: .txt (Texto Puro) .pdf (Portable Document Format).
+https://chat.openai.com/
+FORMATOS abertos e formatos proprietários: como funciona e como é constituído o arquivo IFC. BibLus, 28 nov. 2017. 
+Disponível em: https://biblus.accasoftware.com/ptb/formatos-abertos-e-formatos-proprietarios-como-funciona-e-como-e-constituido-o-arquivo-ifc/ Acesso em: 02 mar. 2024
+
