@@ -1,0 +1,68 @@
+Phynton
+Criada em 1991, Python é uma das linguagens mais populares atualmente. É também uma boa opção para quem está entrando no mundo da programação, pois foi pensada para facilitar a escrita e a leitura dos códigos.
+É uma linguagem muito usada em Data Science, Machine Learning, Inteligência Artificial e no desenvolvimento de web e aplicativos, como o Instagram. O YouTube foi inicialmente desenvolvido em PHP, mas migrou 
+para Python por conta da necessidade de melhorar desempenho e de integrar novas funcionalidades. Além disso, Python exige menos código para concluir tarefas. Logo, menos trabalho antes de ver os resultados.
+O código calcula com que letra começa o meu nome e qual seria meu primeiro nome.
+nome = 'Juliana L.'
+sobrenome = 'Vieira'
+print("nome: %s, sobrenome: %s" % (nome.upper(), sobrenome))
+print("meu nome começa com a letra", nome[0])
+print("meu primeiro nome é ", nome[0:7])
+nome: JULIANA L., sobrenome: Vieira
+meu nome começa com a letra J
+meu primeiro nome é  Juliana
+
+[Execution complete with exit code 0]
+
+PHP
+Os engenheiros de back-end também têm suas linguagens de programação favoritas, e PHP: Hypertext Preprocessor (PHP) é uma delas. Essa linguagem é amplamente usada em HTML para acessar e gerenciar 
+rapidamente o conteúdo do lado do servidor, incluindo bancos de dados. Na verdade, muitos formulários online usam PHP para criar novos registros de banco de dados ou atualizar os existentes.
+Outra vantagem do PHP é a segurança integrada que ele oferece, pois pode criptografar dados e restringir o acesso a determinadas partes do seu site.
+Porque é fácil de aprender:
+PHP tem uma sintaxe simples em comparação com outras linguagens de programação.
+Programadores experientes geralmente podem aprender PHP rapidamente.
+Desenvolvido na década de 1990, o PHP possui uma grande comunidade de usuários experientes que ajudam quem está começando.
+O código calcula a média feita por uma aluna e informa se ela foi aprovada ou reprovada de acordo com a média pedida pela instituição. 
+<?php
+$nome = 'Juliana';
+$nota1 = 8;
+$nota2 = 7;
+$media = ($nota1+$nota2)/2;
+
+if($media>=7){
+$status = 'APROVADO';
+}
+else{
+
+$status = 'REPROVADO';
+}
+
+echo "Nome:".$nome;
+echo "<br>Média:".$media;
+echo "<br>Status:".$status;
+?>
+
+Nome:Juliana<br>Média:7.5<br>Status:APROVADO
+[Execution complete with exit code 0]
+  
+Ruby
+Comparado ao Python, que se concentra em fornecer uma solução única e simples para cada problema, o Ruby visa permitir várias abordagens que atingem o mesmo fim. Isso dá ao Ruby um tipo de flexibilidade
+que os programadores adoram. Outra razão do Ruby ser tão popular entre os programadores é que eles podem alterar até mesmo partes fundamentais da linguagem para atender às suas necessidades. 
+Por exemplo, os operadores matemáticos podem ser descritivos em vez de usar símbolos (“mais” em vez de “+”). 
+O código calcula a quantidade de caracteres que tem em uma frase.
+frase = 'A manhã virá novamente porque nenhuma escuridão dura para sempre'
+puts frase.length
+64
+
+[Execution complete with exit code 0]
+
+  
+Referências:
+https://ebaconline.com.br/blog/linguagem-de-programacao-mais-facil
+https://www.youtube.com/watch?v=McJYiy4mWWE
+https://www.youtube.com/watch?v=IdBVXM1y4Po
+https://www.youtube.com/watch?v=2_juMyzubng
+https://www.mycompiler.io/pt/online-python-compiler
+
+
+
