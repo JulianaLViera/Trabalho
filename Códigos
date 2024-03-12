@@ -13,6 +13,7 @@ meu nome começa com a letra J
 meu primeiro nome é  Juliana
 
 [Execution complete with exit code 0]
+https://drive.google.com/file/d/18uT3cMtA7HzPWD5coblrm89Ei8vNBIYl/view?usp=sharing
 
 PHP
 Os engenheiros de back-end também têm suas linguagens de programação favoritas, e PHP: Hypertext Preprocessor (PHP) é uma delas. Essa linguagem é amplamente usada em HTML para acessar e gerenciar 
@@ -44,6 +45,7 @@ echo "<br>Status:".$status;
 
 Nome:Juliana<br>Média:7.5<br>Status:APROVADO
 [Execution complete with exit code 0]
+https://drive.google.com/file/d/1SOYZtUZZk6zqCzIoTrG4vjM6N6zOO6E_/view?usp=sharing
   
 Ruby
 Comparado ao Python, que se concentra em fornecer uma solução única e simples para cada problema, o Ruby visa permitir várias abordagens que atingem o mesmo fim. Isso dá ao Ruby um tipo de flexibilidade
@@ -55,7 +57,7 @@ puts frase.length
 64
 
 [Execution complete with exit code 0]
-
+https://drive.google.com/file/d/1iOMHBM-iFCVihZOEqqrY1C576ZojPHe_/view?usp=sharing
   
 Referências:
 https://ebaconline.com.br/blog/linguagem-de-programacao-mais-facil
