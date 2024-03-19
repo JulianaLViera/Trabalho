@@ -66,5 +66,17 @@ https://www.youtube.com/watch?v=IdBVXM1y4Po
 https://www.youtube.com/watch?v=2_juMyzubng
 https://www.mycompiler.io/pt/online-python-compiler
 
+Estrutura de repetição:
 
+for number in range(5):
+    print("Obrigada")
+https://drive.google.com/file/d/19Ggs-PPB0cYjqZPaFLb_6zHyR5ttikUo/view?usp=sharing
 
+Tomada de decisão:
+idade = 19
+if idade < 18:
+        print("Você é menor de idade.")
+else:
+        print("Você é maior de idade.")
+
+https://drive.google.com/file/d/11fQcn-WSaJIpEhjsGl1MZtZbDzFHOD0a/view?usp=sharing
